@@ -57,5 +57,8 @@
     "jshint": "2.8.0",
     "mocha": "2.2.5"
   },
-  "license" : "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn-async": "^2.1.9"
+  }
 }
